@@ -1,24 +1,25 @@
 import logo from '../../assets/libhub.svg';
 import avatar from '../../assets/john_stevens.svg';
 
+import { Link } from 'react-router-dom'
+
 import './Header.css';
 
 
-export default function ComponentName() {
+export default function Header() {
     return (
         <header>
             <img id='logo' src={logo} alt="" />
             <nav id='navbar'>
                 <ul >
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Books</a></li>
-                    <li><a href="#">Authors</a></li>
-                    <li><a href="#">Series</a></li>
-                    <li><a href="#">Log In</a></li>
-                    <li><a href="#">Register</a></li>
-                    <li><a href="#">Logout</a></li>
+                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/books">Books</Link></li>
+                    <li><Link to="/authors">Authors</Link></li>
+                    <li><Link to="/series">Series</Link></li>
+                    <li><Link to="/login">Log In</Link></li>
+                    <li><Link to="/register">Register</Link></li>
+                    <li><Link to="/logout">Logout</Link></li>
                     <li>
-                        
                         <img className='profile-avatar-header' src={avatar}></img>
                     </li>
                 </ul>
