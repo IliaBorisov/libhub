@@ -1,4 +1,4 @@
-#login-container {
+#register-container {
     background-image: linear-gradient(180deg, #4070F4, #f6f6f6);
     width: 100%;
     height: 100vh;
@@ -7,7 +7,7 @@
     text-align: center;
 }
 
-#login-form{
+#register-form{
     background-color: white;
     width: 500px;
     margin: auto;
@@ -23,12 +23,13 @@
     height: 3em;
 }
 
-.login-label {
+.register-label {
     padding: 1em;
 }
 
-#login-email,
-#login-password {
+#register-email,
+#register-password,
+#repass {
     border: 1px solid rgb(187, 187, 187);
     border-radius: 1em;
     width: 20em;
@@ -36,7 +37,7 @@
     margin: 0.5em auto ;
 }
 
-.login-auth-submit{
+.register-auth-submit{
     border: 1px solid transparent;
     border-radius: 1em;
     width: 20em;
@@ -47,7 +48,7 @@
     font-weight: bold;
 }
 
-.link-register{
+.link-login{
     margin-top: 1em ;
     margin-bottom: 2em;
     text-decoration: none;

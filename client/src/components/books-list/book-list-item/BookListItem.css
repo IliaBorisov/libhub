@@ -1,0 +1,10 @@
+.book-item {
+    display: flex;
+    width: 80%;
+    margin: 1em 2em;
+}
+
+.book-item img {
+    height: 5em;
+    margin-right: 1em;
+}

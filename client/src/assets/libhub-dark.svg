@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="2600"
+   height="800"
+   viewBox="0 0 156 48"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="libhub1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.258125"
+     inkscape:cx="579.17675"
+     inkscape:cy="122.0339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs24">
+    <rect
+       x="800"
+       y="176.27119"
+       width="949.15253"
+       height="519.12836"
+       id="rect323" />
+    <style
+       id="style22">.a{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <polygon
+     class="a"
+     points="6.241,19.027 23.997,24.615 41.759,16.557 23.997,10.658 "
+     id="polygon26" />
+  <polyline
+     class="a"
+     points="6.241 25.39 23.997 30.979 41.759 22.92"
+     id="polyline28" />
+  <polyline
+     class="a"
+     points="6.241 31.754 23.997 37.342 41.759 29.284"
+     id="polyline30" />
+  <line
+     class="a"
+     x1="24.2614"
+     y1="15.186"
+     x2="28.739201"
+     y2="16.673201"
+     id="line32" />
+  <path
+     class="a"
+     d="m 6.2415,19.0268 c -2.4109,0.985 -2.2314,5.6615 0,6.3638"
+     id="path34" />
+  <path
+     class="a"
+     d="m 41.7585,29.2847 c 2.4109,-0.985 2.2314,-5.6615 0,-6.3637"
+     id="path36" />
+  <text
+     xml:space="preserve"
+     transform="matrix(1.0608103,0,0,1.0608103,-1251.4499,-178.53921)"
+     id="text321"
+     style="font-size:26.6667px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;white-space:pre;shape-inside:url(#rect323);display:inline;fill:#000000;stroke-width:2.81953;stroke-linecap:round;stroke-miterlimit:20;paint-order:stroke fill markers"><tspan
+       x="1226.5683"
+       y="200.79206"
+       id="tspan463"><tspan
+         style="font-weight:bold"
+         id="tspan461">LibHub</tspan></tspan></text>
+</svg>

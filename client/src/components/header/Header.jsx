@@ -1,4 +1,4 @@
-import logo from '../../assets/libhub.svg';
+import logo from '../../assets/libhub-light.svg';
 import avatar from '../../assets/john_stevens.svg';
 
 import { Link } from 'react-router-dom'

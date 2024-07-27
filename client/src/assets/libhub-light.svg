@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="2600"
+   height="800"
+   viewBox="0 0 156 48"
+   version="1.1"
+   id="svg38"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24">
+    <rect
+       x="800"
+       y="176.27119"
+       width="949.15253"
+       height="519.12836"
+       id="rect323" />
+    <style
+       id="style22">.a{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <polygon
+     class="a"
+     points="6.241,19.027 23.997,24.615 41.759,16.557 23.997,10.658 "
+     id="polygon26"
+     style="stroke:#ffffff;stroke-opacity:1" />
+  <polyline
+     class="a"
+     points="6.241 25.39 23.997 30.979 41.759 22.92"
+     id="polyline28"
+     style="stroke:#fefefe;stroke-opacity:1" />
+  <polyline
+     class="a"
+     points="6.241 31.754 23.997 37.342 41.759 29.284"
+     id="polyline30"
+     style="stroke:#fefefe;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="24.2614"
+     y1="15.186"
+     x2="28.739201"
+     y2="16.673201"
+     id="line32"
+     style="stroke:#fefefe;stroke-opacity:1" />
+  <path
+     class="a"
+     d="m 6.2415,19.0268 c -2.4109,0.985 -2.2314,5.6615 0,6.3638"
+     id="path34"
+     style="stroke:#fefefe;stroke-opacity:1" />
+  <path
+     class="a"
+     d="m 41.7585,29.2847 c 2.4109,-0.985 2.2314,-5.6615 0,-6.3637"
+     id="path36"
+     style="stroke:#fefefe;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     transform="matrix(1.0608103,0,0,1.0608103,-1251.4499,-178.53921)"
+     id="text321"
+     style="font-size:26.6667px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;white-space:pre;shape-inside:url(#rect323);display:inline;fill:#000000;stroke-width:2.81953;stroke-linecap:round;stroke-miterlimit:20;paint-order:stroke fill markers"><tspan
+       x="1226.5683"
+       y="200.79206"
+       id="tspan1345"><tspan
+         style="font-weight:bold;fill:#ffffff"
+         id="tspan1343">LibHub</tspan></tspan></text>
+</svg>
