@@ -1,4 +1,6 @@
 header {
+    top: 0;
+    position: sticky;
     background-color: #212F3D;
     display: flex;
     justify-content: space-between;
@@ -40,4 +42,9 @@ header {
     background-color: white;
     height: 70%;
     border-radius: 70%;
+}
+
+.book-item-details{
+    display: flex;
+    flex-direction: column;
 }
