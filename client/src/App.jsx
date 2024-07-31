@@ -6,6 +6,7 @@ import Header from './components/header/Header';
 import Login from './components/login/Login';
 import Register from './components/register/Register';
 import BooksList from './components/books-list/BooksList';
+import BookListOverview from './components/book-list-overview/BookListOverview';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
 
       <main id='main-content'>
         <Routes>
+          <Route path='/' element={<BookListOverview />} />
           <Route path='/books' element={<BooksList />} />
           <Route path='/login' element={<Login />} />
           <Route path='/register' element={<Register />} />

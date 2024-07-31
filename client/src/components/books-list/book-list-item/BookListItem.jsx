@@ -14,10 +14,10 @@ export default function BookListItem({
 }) {
     return (
         <section className="book-item">
-            <Link to={BOOK_URL}><img src={imageUrl} alt="no image" /></Link>
+            <Link to={`${BOOK_URL}/${_id}`}><img src={imageUrl} alt="no image" /></Link>
             <div className='book-item-details'>
-                <Link to={BOOK_URL} >{title}</Link>
-                <p>by <Link to={AUTHOR_URL}>{author}</Link></p>
+                <Link to={`${BOOK_URL}/${_id}`} >{title}</Link>
+                <p>by <Link to={`${AUTHOR_URL}`}>{author}</Link></p>
                 <p>{rating}</p>
             </div>
         </section>

@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 
-import * as booksAPI from '../../api/books-api';
-import BookListItem from "./book-list-item/BookListItem";
+import './BookListOverview.css';
 
-export default function BooksList() {
+import * as booksAPI from '../../api/books-api';
+import BookListCard from "./book-list-card/BookLIstCard";
+
+export default function BookListOverview() {
     const [books, setBooks] = useState([]);
 
     useEffect(() => {
@@ -13,10 +15,10 @@ export default function BooksList() {
 
 
     return (
-        <section id="catalog-page">
+        <section id="catalog-page-overview">
 
             {books.length > 0
-                ? books.map(book => <BookListItem key={book._id} {...book} />)
+                ? books.map(book => <BookListCard key={book._id} {...book} />)
                 : <h3>empty</h3>
             }
 
