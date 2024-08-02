@@ -21,7 +21,6 @@ export default function BooksList() {
                 ? books.map(book => <BookListItem key={book._id} {...book} />)
                 : <h3>empty</h3>
             }
-
         </section>
     );
 }

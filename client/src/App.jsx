@@ -7,6 +7,7 @@ import Login from './components/login/Login';
 import Register from './components/register/Register';
 import BooksList from './components/books-list/BooksList';
 import BookListOverview from './components/book-list-overview/BookListOverview';
+import BookDetails from './components/book-details/BookDetails';
 
 
 function App() {
@@ -22,9 +23,10 @@ function App() {
       <main id='main-content'>
         <Routes>
           <Route path='/' element={<BookListOverview />} />
-          <Route path='/books' element={<BooksList />} />
+          <Route path='/all-books' element={<BooksList />} />
           <Route path='/login' element={<Login />} />
           <Route path='/register' element={<Register />} />
+          <Route path='/all-books/:bookId' element={<BookDetails />} />
         </Routes>
       </main>
 

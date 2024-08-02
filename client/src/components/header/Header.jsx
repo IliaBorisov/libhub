@@ -13,7 +13,7 @@ export default function Header() {
             <nav id='navbar'>
                 <ul >
                     <li><Link to="/">Home</Link></li>
-                    <li><Link to="/books">Books</Link></li>
+                    <li><Link to="/all-books">Books</Link></li>
                     <li><Link to="/authors">Authors</Link></li>
                     <li><Link to="/series">Series</Link></li>
                     <li><Link to="/login">Log In</Link></li>

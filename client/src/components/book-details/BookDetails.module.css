@@ -1,0 +1,28 @@
+#book-details {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    width:auto;
+    height: 50em;
+    display: flex;
+    margin-top: 5em;
+    border: transparent;
+    border-radius: 2em;
+    background-color: rgb(253, 254, 255);
+    box-shadow: 5px 5px 8px  #adadad;
+}
+
+.book-cover {
+    max-height: 25em;
+    margin: 2em 0 0 2em;
+    border-radius: 1em;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    margin: 2em 2em 0 2em;
+}
+
+.title {
+}
