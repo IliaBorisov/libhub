@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 
+import styles from './BookList.module.css';
+
 import * as booksAPI from '../../api/books-api';
 import BookListItem from "./book-list-item/BookListItem";
 
@@ -13,7 +15,7 @@ export default function BooksList() {
 
 
     return (
-        <section id="catalog-page">
+        <section id={styles["catalog-page"]}>
 
             {books.length > 0
                 ? books.map(book => <BookListItem key={book._id} {...book} />)

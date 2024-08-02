@@ -1,6 +1,15 @@
-#catalog-page-overview{
+#catalog-page-overview {
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
     flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }

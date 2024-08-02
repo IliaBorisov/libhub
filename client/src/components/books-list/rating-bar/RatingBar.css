@@ -1,0 +1,23 @@
+.rating-container {
+    position: relative;
+    height: 1em;
+    width: 10em;
+    border: 1px solid darkblue;
+}
+
+.rating-bar {
+    height: 100%;
+    background-color: gold;
+}
+
+.line-container {
+    display: flex;
+}
+
+.line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: #484848;
+}

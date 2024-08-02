@@ -1,4 +1,4 @@
-import './BookListCard.module.css'
+import styles from './BookListCard.module.css'
 
 export default function BookListCard({
     title,
@@ -7,10 +7,10 @@ export default function BookListCard({
 }) {
 
     return (
-        <section className='book-card'>
+        <section className={styles['book-card']}>
             <img src={imageUrl} alt="" />
-            <p>{title}</p>
-            <p className='auto'>{author}</p>
+            <p className={styles['title']}>{title}</p>
+            <p className={styles['author']}>{author}</p>
         </section>
     );
 }
