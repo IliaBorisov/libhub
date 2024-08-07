@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
 import booksAPI from "../../api/books-api";
 
@@ -17,16 +18,41 @@ export default function BookDetails() {
         })();
     }, []);
 
-    console.log(book);
+
 
     return (
         <section id={styles['book-details']}>
-            <img className={styles['book-cover']} src={book.imageUrl}></img>
-            <div className={styles['text-container']}>
-                <p className={styles['title']}>Title: {book.title}</p>
-                <p className={styles['author']}>Atuhor: {book.author}</p>
-                <p className={styles['author']}>Series: {book.series}</p>
+            <div className={styles['row-container']}>
+                <img className={styles['book-cover']} src={book.imageUrl}></img>
+                <div className={styles['info-container']}>
+                    <h2 className={styles['title']}>{book.title}</h2>
+                    <div className={styles['author-container']}>
+                        <h4 className={styles['author']}>
+                            <em>by </em>
+                            <Link>{book.author}</Link>
+                        </h4>
+                    </div>
+
+                    <h6 className={styles['author']}>Series: {book.series}</h6>
+                    <p className={styles['author']}>Genres: {
+                        book.genres != undefined
+                            ? book.genres.join(', ')
+                            : ''
+                    }</p>
+                    <p className={styles['author']}>Language: {book.language}</p>
+                    <p className={styles['author']}>Pages: {book.pages}</p>
+                </div>
             </div>
-        </section>
+
+            <div className={styles['row-container']}>
+                <p className={styles['description']}>{book.description}</p>
+            </div>
+
+            <div className={`${styles['row-container']} ${styles['buttons']}`}>
+                <button className={`${styles['action-buttons']} ${styles['button-edit']}`}>Edit</button>
+                <button className={`${styles['action-buttons']} ${styles['button-delete']}`}>Delete</button>
+            </div>
+
+        </section >
     );
 }

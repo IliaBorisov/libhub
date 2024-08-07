@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 import './BookListItem.css'
 
-const BOOK_URL = '/book';
+const BOOK_URL = '/all-books';
 const AUTHOR_URL = '/author';
 
 export default function BookListItem({

@@ -1,162 +1,356 @@
 {
-    "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q": {
-        "title": "Pride and Prejudice",
-        "author": "Jane Austen",
-        "isbn": "978-0-19-953556-9",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
-        "rating": 4.26,
-        "_id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q"
-    },
-    "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r": {
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "isbn": "978-0-7432-7356-5",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
-        "rating": 3.92,
-        "_id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r"
-    },
-    "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s": {
-        "title": "Moby-Dick",
-        "author": "Herman Melville",
-        "isbn": "978-0-14-243724-7",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg",
-        "rating": 3.51,
-        "_id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s"
-    },
-    "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t": {
-        "title": "War and Peace",
-        "author": "Leo Tolstoy",
-        "isbn": "978-0-14-044793-4",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg",
-        "rating": 4.11,
-        "_id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t"
-    },
-    "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u": {
-        "title": "The Catcher in the Rye",
-        "author": "J.D. Salinger",
-        "isbn": "978-0-316-76948-0",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
-        "rating": 3.81,
-        "_id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u"
-    },
-    "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v": {
-        "title": "The Hobbit",
-        "author": "J.R.R. Tolkien",
-        "isbn": "978-0-618-00221-3",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372847500i/5907.jpg",
-        "rating": 4.27,
-        "_id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v"
-    },
-    "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p": {
-        "title": "1984",
-        "author": "George Orwell",
-        "isbn": "978-0-452-28423-4",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532714506i/40961427.jpg",
-        "rating": 4.17,
-        "_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p"
-    },
-    "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w": {
-        "title": "Crime and Punishment",
-        "author": "Fyodor Dostoevsky",
-        "isbn": "978-0-14-044913-6",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg",
-        "rating": 4.21,
-        "_id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w"
-    },
-    "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x": {
-        "title": "Brave New World",
-        "author": "Aldous Huxley",
-        "isbn": "978-0-06-085052-4",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg",
-        "rating": 3.99,
-        "_id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x"
-    },
-    "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y": {
-        "title": "The Brothers Karamazov",
-        "author": "Fyodor Dostoevsky",
-        "isbn": "978-0-14-044924-2",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427728126i/4934.jpg",
-        "rating": 4.32,
-        "_id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y"
-    },
-    "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p": {
-        "title": "The Alchemist",
-        "author": "Paulo Coelho",
-        "isbn": "978-0-06-112241-4",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483412266i/865.jpg",
-        "rating": 3.88,
-        "_id": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p"
-    },
-    "b2c3d4e5-f6g7-8h9i-0j1k-2l3m4n5o6p7q": {
-        "title": "The Book Thief",
-        "author": "Markus Zusak",
-        "isbn": "978-0-375-84220-7",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg",
-        "rating": 4.38,
-        "_id": "b2c3d4e5-f6g7-8h9i-0j1k-2l3m4n5o6p7q"
-    },
-    "c3d4e5f6-g7h8-9i0j-1k2l-3m4n5o6p7q8r": {
-        "title": "The Road",
-        "author": "Cormac McCarthy",
-        "isbn": "978-0-307-38789-9",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439197219i/6288.jpg",
-        "rating": 4.07,
-        "_id": "c3d4e5f6-g7h8-9i0j-1k2l-3m4n5o6p7q8r"
-    },
-    "d4e5f6g7-h8i9-0j1k-2l3m-4n5o6p7q8r9s": {
-        "title": "The Kite Runner",
-        "author": "Khaled Hosseini",
-        "isbn": "978-1-59448-000-3",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203.jpg",
-        "rating": 4.34,
-        "_id": "d4e5f6g7-h8i9-0j1k-2l3m-4n5o6p7q8r9s"
-    },
-    "e5f6g7h8-i9j0-1k2l-3m4n-5o6p7q8r9s0t": {
-        "title": "The Da Vinci Code",
-        "author": "Dan Brown",
-        "isbn": "978-0-385-50420-8",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1303252999i/968.jpg",
-        "rating": 3.85,
-        "_id": "e5f6g7h8-i9j0-1k2l-3m4n-5o6p7q8r9s0t"
-    },
-    "f6g7h8i9-j0k1-2l3m-4n5o-6p7q8r9s0t1u": {
-        "title": "The Shining",
-        "author": "Stephen King",
-        "isbn": "978-0-385-12167-2",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg",
-        "rating": 4.24,
-        "_id": "f6g7h8i9-j0k1-2l3m-4n5o-6p7q8r9s0t1u"
-    },
-    "g7h8i9j0-k1l2-3m4n-5o6p-7q8r9s0t1u2v": {
-        "title": "The Handmaid's Tale",
-        "author": "Margaret Atwood",
-        "isbn": "978-0-385-49081-5",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447.jpg",
-        "rating": 4.12,
-        "_id": "g7h8i9j0-k1l2-3m4n-5o6p-7q8r9s0t1u2v"
-    },
-    "h8i9j0k1-l2m3-4n5o-6p7q-8r9s0t1u2v3w": {
-        "title": "The Hunger Games",
-        "author": "Suzanne Collins",
-        "isbn": "978-0-439-02348-1",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447303603i/2767052.jpg",
-        "rating": 4.32,
-        "_id": "h8i9j0k1-l2m3-4n5o-6p7q-8r9s0t1u2v3w"
-    },
-    "i9j0k1l2-m3n4-5o6p-7q8r-9s0t1u2v3w4x": {
-        "title": "The Girl with the Dragon Tattoo",
-        "author": "Stieg Larsson",
-        "isbn": "978-0-307-45454-5",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327868566i/2429135.jpg",
-        "rating": 4.14,
-        "_id": "i9j0k1l2-m3n4-5o6p-7q8r-9s0t1u2v3w4x"
-    },
-    "j0k1l2m3-n4o5-6p7q-8r9s-0t1u2v3w4x5y": {
-        "title": "Gone Girl",
-        "author": "Gillian Flynn",
-        "isbn": "978-0-307-58836-3",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086137i/19288043.jpg",
-        "rating": 4.09,
-        "_id": "j0k1l2m3-n4o5-6p7q-8r9s-0t1u2v3w4x5y"
-    }
+  "a1b2c3d4-5e6f-7g8h-9i0j-1k2l3m4n5o6p": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780060935467",
+    "series": "",
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "pages": 281,
+    "description": "A novel set in the American South during the 1930s, focusing on themes of racial injustice and moral growth.",
+    "language": "English",
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/81aY1lxk+9L._SL1500_.jpg",
+    "_id": "a1b2c3d4-5e6f-7g8h-9i0j-1k2l3m4n5o6p"
+  },
+  "b2c3d4e5-6f7g-8h9i-0j1k-2l3m4n5o6p7q": {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "series": "",
+    "genres": [
+      "Romance",
+      "Classics"
+    ],
+    "pages": 279,
+    "description": "A classic novel that explores the themes of love, reputation, and class through the interactions of the Bennet family.",
+    "language": "English",
+    "rating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/I/81NLDvyAHrL._SL1500_.jpg",
+    "_id": "b2c3d4e5-6f7g-8h9i-0j1k-2l3m4n5o6p7q"
+  },
+  "c3d4e5f6-7g8h-9i0j-1k2l-3m4n5o6p7q8r": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "series": "",
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "pages": 180,
+    "description": "A novel set in the Roaring Twenties that examines the themes of wealth, society, and the American Dream.",
+    "language": "English",
+    "rating": 4.4,
+    "imageUrl": "https://m.media-amazon.com/images/I/61dRoDRubtL._SL1500_.jpg",
+    "_id": "c3d4e5f6-7g8h-9i0j-1k2l-3m4n5o6p7q8r"
+  },
+  "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s": {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9781503280786",
+    "series": "",
+    "genres": [
+      "Adventure",
+      "Classics"
+    ],
+    "pages": 585,
+    "description": "An epic tale of obsession and revenge centered around Captain Ahab's pursuit of the elusive white whale, Moby Dick.",
+    "language": "English",
+    "rating": 4.3,
+    "imageUrl": "https://m.media-amazon.com/images/I/71d5wo+-MuL._SL1200_.jpg",
+    "_id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s"
+  },
+  "e5f6g7h8-9i0j-1k2l-3m4n-5o6p7q8r9s0t": {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "series": "",
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "pages": 277,
+    "description": "A novel that follows the experiences of Holden Caulfield, a disenchanted teenager navigating the complexities of adolescence and adult society.",
+    "language": "English",
+    "rating": 4.0,
+    "imageUrl": "https://m.media-amazon.com/images/I/71nXPGovoTL._SL1500_.jpg",
+    "_id": "e5f6g7h8-9i0j-1k2l-3m4n-5o6p7q8r9s0t"
+  },
+  "f6g7h8i9-0j1k-2l3m-4n5o-6p7q8r9s0t1u": {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "isbn": "9780060883287",
+    "series": "",
+    "genres": [
+      "Magical Realism",
+      "Fiction"
+    ],
+    "pages": 417,
+    "description": "A multi-generational novel that follows the Buendía family in the fictional town of Macondo, blending reality with fantastical elements.",
+    "language": "English",
+    "rating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/I/81MI6+TpYkL._SL1500_.jpg",
+    "_id": "f6g7h8i9-0j1k-2l3m-4n5o-6p7q8r9s0t1u"
+  },
+  "g7h8i9j0-1k2l-3m4n-5o6p-7q8r9s0t1u2v": {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "isbn": "9781400033416",
+    "series": "",
+    "genres": [
+      "Historical Fiction",
+      "Literary Fiction"
+    ],
+    "pages": 324,
+    "description": "A powerful novel about an escaped enslaved woman haunted by her past and the ghost of her dead daughter.",
+    "language": "English",
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/51Qj9kPD4CL._SL1200_.jpg",
+    "_id": "g7h8i9j0-1k2l-3m4n-5o6p-7q8r9s0t1u2v"
+  },
+  "h8i9j0k1-2l3m-4n5o-6p7q-8r9s0t1u2v3w": {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn": "9780307387899",
+    "series": "",
+    "genres": [
+      "Post-Apocalyptic",
+      "Fiction"
+    ],
+    "pages": 287,
+    "description": "A stark, moving tale of a father and son's journey through a desolate, post-apocalyptic world.",
+    "language": "English",
+    "rating": 4.5,
+    "imageUrl": "https://m.media-amazon.com/images/I/51M7XGLQTBL._SL1200_.jpg",
+    "_id": "h8i9j0k1-2l3m-4n5o-6p7q-8r9s0t1u2v3w"
+  },
+  "i9j0k1l2-3m4n-5o6p-7q8r-9s0t1u2v3w4x": {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "isbn": "9780375842207",
+    "series": "",
+    "genres": [
+      "Historical Fiction",
+      "Young Adult"
+    ],
+    "pages": 552,
+    "description": "A story narrated by Death, set in Nazi Germany, following a young girl who finds solace in stealing books and sharing them with others.",
+    "language": "English",
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/71H52+sSb4L._SL1500_.jpg",
+    "_id": "i9j0k1l2-3m4n-5o6p-7q8r-9s0t1u2v3w4x"
+  },
+  "j0k1l2m3-4n5o-6p7q-8r9s-0t1u2v3w4x5y": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "isbn": "9780345391803",
+    "series": "The Hitchhiker's Guide to the Galaxy",
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ],
+    "pages": 224,
+    "description": "A comedic science fiction adventure that follows the misadventures of Arthur Dent as he travels through space with an alien friend.",
+    "language": "English",
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/816nXdf490L._SL1500_.jpg",
+    "_id": "j0k1l2m3-4n5o-6p7q-8r9s-0t1u2v3w4x5y"
+  },
+  "k1l2m3n4-5o6p-7q8r-9s0t-1u2v3w4x5y6z": {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780345339683",
+    "series": "Middle-earth",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "pages": 310,
+    "description": "A prelude to the Lord of the Rings, following the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland from a dragon.",
+    "language": "English",
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/712cDO7d73L._SL1500_.jpg",
+    "_id": "k1l2m3n4-5o6p-7q8r-9s0t-1u2v3w4x5y6z"
+  },
+  "l2m3n4o5-6p7q-8r9s-0t1u-2v3w4x5y6z7a": {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "isbn": "9780553103540",
+    "series": "A Song of Ice and Fire",
+    "genres": [
+      "Fantasy",
+      "Epic"
+    ],
+    "pages": 694,
+    "description": "The first book in a sprawling epic series, focusing on the political and military struggles for control of the Seven Kingdoms of Westeros.",
+    "language": "English",
+    "rating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/I/91WKFMvnbEL._SL1500_.jpg",
+    "_id": "l2m3n4o5-6p7q-8r9s-0t1u-2v3w4x5y6z7a"
+  },
+  "m3n4o5p6-7q8r-9s0t-1u2v-3w4x5y6z7a8b": {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "isbn": "9780756404741",
+    "series": "The Kingkiller Chronicle",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "pages": 662,
+    "description": "The first book in the Kingkiller Chronicle series, detailing the early life of Kvothe, a gifted young man who becomes a legend.",
+    "language": "English",
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/91kqMlMsRCL._SL1500_.jpg",
+    "_id": "m3n4o5p6-7q8r-9s0t-1u2v-3w4x5y6z7a8b"
+  },
+  "n4o5p6q7-8r9s-0t1u-2v3w-4x5y6z7a8b9c": {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780618260584",
+    "series": "The Lord of the Rings",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "pages": 423,
+    "description": "The first volume of the Lord of the Rings trilogy, following Frodo Baggins and his companions as they embark on a quest to destroy the One Ring.",
+    "language": "English",
+    "rating": 4.9,
+    "imageUrl": "https://m.media-amazon.com/images/I/710YPoKebhL._SL1500_.jpg",
+    "_id": "n4o5p6q7-8r9s-0t1u-2v3w-4x5y6z7a8b9c"
+  },
+  "o5p6q7r8-9s0t-1u2v-3w4x-5y6z7a8b9c0d": {
+    "title": "The Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780747532699",
+    "series": "Harry Potter",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "pages": 223,
+    "description": "The first book in the Harry Potter series, introducing Harry Potter and his journey into the magical world of Hogwarts.",
+    "language": "English",
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/91r0dvXhNGL._SL1500_.jpg",
+    "_id": "o5p6q7r8-9s0t-1u2v-3w4x-5y6z7a8b9c0d"
+  },
+  "p6q7r8s9-0t1u-2v3w-4x5y-6z7a8b9c0d1e": {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "isbn": "9780141346809",
+    "series": "Percy Jackson & the Olympians",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Young Adult"
+    ],
+    "pages": 377,
+    "description": "The first book in the Percy Jackson series, following a teenage boy who discovers he is the son of the Greek god Poseidon and embarks on a quest.",
+    "language": "English",
+    "rating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/I/91WN6a6F3RL._SL1500_.jpg",
+    "_id": "p6q7r8s9-0t1u-2v3w-4x5y-6z7a8b9c0d1e"
+  },
+  "q7r8s9t0-1u2v-3w4x-5y6z-7a8b9c0d1e2f": {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023528",
+    "series": "The Hunger Games",
+    "genres": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "pages": 374,
+    "description": "The first book in The Hunger Games series, set in a dystopian future where children are chosen to participate in a televised death match.",
+    "language": "English",
+    "rating": 4.5,
+    "imageUrl": "https://m.media-amazon.com/images/I/61i8nC90deL._SL1311_.jpg",
+    "_id": "q7r8s9t0-1u2v-3w4x-5y6z-7a8b9c0d1e2f"
+  },
+  "r8s9t0u1-2v3w-4x5y-6z7a-8b9c0d1e2f3g": {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn": "9780441013593",
+    "series": "Dune",
+    "genres": [
+      "Science Fiction",
+      "Epic"
+    ],
+    "pages": 412,
+    "description": "The first book in the Dune series, focusing on the rise of Paul Atreides as he navigates political intrigue and warfare on the desert planet of Arrakis.",
+    "language": "English",
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/71lwUXdZJqL._SL1481_.jpg",
+    "_id": "r8s9t0u1-2v3w-4x5y-6z7a-8b9c0d1e2f3g"
+  },
+  "s9t0u1v2-3w4x-5y6z-7a8b-9c0d1e2f3g4h": {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "isbn": "9780765311786",
+    "series": "Mistborn",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "pages": 541,
+    "description": "The first book in the Mistborn series, set in a world where ash falls from the sky and a young woman discovers her powers in a struggle against a dark lord.",
+    "language": "English",
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/91U6rc7u0yL._SL1500_.jpg",
+    "_id": "s9t0u1v2-3w4x-5y6z-7a8b-9c0d1e2f3g4h"
+  },
+  "t0u1v2w3-4x5y-6z7a-8b9c-0d1e2f3g4h5i": {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "isbn": "9780812550702",
+    "series": "Ender's Saga",
+    "genres": [
+      "Science Fiction",
+      "Military"
+    ],
+    "pages": 324,
+    "description": "The first book in the Ender's Saga series, following a young boy recruited into a futuristic military academy to prepare for an impending alien invasion.",
+    "language": "English",
+    "rating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/I/71seBe8qnVL._SL1500_.jpg",
+    "_id": "t0u1v2w3-4x5y-6z7a-8b9c-0d1e2f3g4h5i"
+  },
+  "v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k": {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "isbn": "9780747538493",
+    "series": "Harry Potter",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "pages": 251,
+    "description": "The second book in the Harry Potter series, where Harry returns to Hogwarts and uncovers a dark secret hidden within the school.",
+    "language": "English",
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/A15suNB9arL._SL1500_.jpg",
+    "_id": "v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k"
+  },
+  "w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "isbn": "9780747542154",
+    "series": "Harry Potter",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "pages": 317,
+    "description": "The third book in the Harry Potter series, where Harry learns more about his past and encounters a dangerous fugitive from the magical prison, Azkaban.",
+    "language": "English",
+    "rating": 4.9,
+    "imageUrl": "https://m.media-amazon.com/images/I/71NaVwWsRDL._SL1038_.jpg",
+    "_id": "w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l"
+  }
 }
